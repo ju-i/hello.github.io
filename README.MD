@@ -14,7 +14,8 @@
 
 # 수상 현황
 2023 대학생 소프트웨어 대회 대상 수상 <br>
-.[발표 ppt].(/presentation.pptx) 
+[대회홈페이지](https://www.naver.com) <br>
+[발표ppt](/presentation.pptx) <br>
 발표 동영상
 
 # 취미
